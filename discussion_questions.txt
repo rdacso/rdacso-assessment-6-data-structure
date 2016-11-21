@@ -1,0 +1,41 @@
+Runtime
+
+1. How often you need to run throught the box of crackers to find an elephant. In this case, it would be O(n)
+
+2.O(1)
+O(n)
+O(n2)
+O(n log n)
+O(log n)
+O(2n)
+
+
+
+Stacks and Queues
+1. 
+a. Stack
+b. Queue
+c. Stack
+
+2. 
+a. Waiting in line for coffee. The first person gets served. 
+b. Print queue. The first person to send a print job is the first person to get their paper printed.
+
+3. 
+a. A stack of pancakes. The first one made goes on the bottom. The last one made goes on top. You eat the top one. 
+b. Taking off clothing. You put on a shirt and a sweater, but the sweater comes off first. 
+
+Linked Lists
+1. The nodes are the 'apple' box, the 'berry' box, and the 'cherry' box. Each node contains a string. The Apple box nas the string 'apple'. The berry box has the string 'berry'. The cherry box contains the string 'cherry.' The head is a reference to the first node in the linked list. In this case, it's pointed at the apple node. The tail tracks where the last node is. In this case, the tail, if it existed in this example, would be pointed to the cherry node. 
+
+2. Doubly linked lists have a next and previous pointers in addition to the head and the tail. Singly linked lists has just the head pointer.
+
+3. Appending is easier if we have a tail because it means we don't have to traverse the list every time we add a node.
+
+TREES
+
+1. The order would be the following: Food, Italian, Indian, Mexican, lasagna, pizza, tikka masala, saag burrito.
+
+2. The order would be the following: Food, Mexican, enchiladas, tacos, burrito, Food, Indian, saag tikka masala, Food, Italian, pizzal, lasagna, Sicillian, New York-style, Chicago-style
+
+3. Binary search trees are different from other search trees because they have a right and a left node. They have a rule for arrangement, which often means they're used for fast searching. 
